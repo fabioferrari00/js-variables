@@ -15,6 +15,8 @@ let bool = true;
 console.log(num);
 console.log(text);
 console.log(bool);
+console.log(num, text, bool);
+console.log(`${num} ${text} ${bool}`); //diventa tutto un a stringa
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
